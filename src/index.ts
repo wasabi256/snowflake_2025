@@ -9,7 +9,7 @@ export class Snowflake {
    */
   /* c8 ignore end */
 
-  static EPOCH: number = Date.UTC(1970, 0, 1).valueOf();
+  static EPOCH: number = Date.UTC(2025, 0, 1).valueOf();
 
   /* c8 ignore start */
   /**
