@@ -9,6 +9,9 @@
 
 Library to help you create a Snowflake Id or parse the same. This solves the problem of generating unique identifiers at scale.
 
+### !!!Caution!!!
+This is a fork I created for my own personal use, so I can't maintain it.
+
 ### What are Snowflakes?
 
 Snowflake IDs, or snowflakes, are a form of unique identifier used in distributed computing. The format was created by Twitter and is used for the IDs of tweets. The format has been adopted by other companies, including Discord, and Instagram, which uses a modified version.
