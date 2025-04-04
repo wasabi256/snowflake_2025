@@ -1,11 +1,4 @@
-[![The Internet Folks Logo](https://theinternetfolks.com/assets/images/logo.png)](https://theinternetfolks.com)
-
-# @theinternetfolks/snowflake
-
-[![GitHub license](https://img.shields.io/github/license/theinternetfolks/kubernetes.svg)](https://github.com/theinternetfolks/context/blob/master/LICENSE)
-[![Maintainer](https://img.shields.io/badge/maintainer-monkfromearth-green)](https://github.com/monkfromearth)
-[![Downloads](https://img.shields.io/npm/dm/@theinternetfolks/snowflake)](https://www.npmjs.com/package/@theinternetfolks/kubernetes)
-[![Npm package version](https://badgen.net/npm/v/@theinternetfolks/snowflake)](https://npmjs.com/@theinternetfolks/snowflake)
+# snowflake_2025
 
 Library to help you create a Snowflake Id or parse the same. This solves the problem of generating unique identifiers at scale.
 
