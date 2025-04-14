@@ -3,7 +3,7 @@ export class Snowflake {
   /**
    * The generators epoch timestamp in milliseconds.
    *
-   * Defaults to "1st of January, 2000, 00:00".
+   * Defaults to "1st of January, 2025, 00:00".
    *
    * @type {number}
    */
